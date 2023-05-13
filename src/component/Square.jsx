@@ -1,4 +1,3 @@
-import { useState } from 'react'
 
 /* eslint-disable react/prop-types */
 function Square({value, onSquareClick}) {
